@@ -37,9 +37,13 @@ Raw e-commerce data was cleaned, structured, and visualized to create an interac
 - Interactive filters (Brand, Discount Range)
 
 ---
+## 📂 Repository Contents
 
-## 📁 Repository Contents
+| File / Folder | Description |
+|---------------|-------------|
+| `Myntra_Dashboard.pbit` | Power BI dashboard template |
+| `myntra_clean_data.xlsx` | Cleaned dataset used in the dashboard |
+| `image/dashboard.png` | Screenshot of the dashboard stored in the `image` folder |
+| `README.md` | Documentation |
 
-- `Myntra_Dashboard.pbit` → Power BI dashboard template  
-- `myntra_clean_data.xlsx` → Cleaned dataset used in dashboard  
-- `README.md` → Project documentation
+---
